@@ -46,7 +46,7 @@
    ```
    Или запустить приложение с указанием переменной окружения в команде:
    ```bash
-   PORT=8080 python -m app.main
+   PORT=8080 python app/main.py
    ```
 
 ## TODO
